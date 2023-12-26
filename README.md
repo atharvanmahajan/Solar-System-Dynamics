@@ -5,7 +5,7 @@ This repository contains code for some simple astrophysical systems using numeri
 
 Each model has various parameters which the user should tweak according to the requirement:  
 
-All the models (except Kirkwood gaps) are implemented in [Python 3.7](https://www.python.org/downloads/release/python-377/). All constants and planetary inforamtion is fetched from Google. Visualization of the models through simple web app is implemented using [matplotlib]([https://matplotlib.org]) library.  
+All the models (except Kirkwood gaps) are implemented in [Python 3.7](https://www.python.org/downloads/release/python-377/). All constants and planetary information is fetched from Google. Visualization of the models through simple web app is implemented using [matplotlib]([https://matplotlib.org]) library.  
 
 This implementation was done as project work on the [Krittika Summer Progamme](https://krittikaiitb.github.io) as a summer project.
 
