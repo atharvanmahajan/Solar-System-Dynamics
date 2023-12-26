@@ -13,7 +13,12 @@ This implementation was done as project work on the [Krittika Summer Progamme](h
 In this repository you will find:  
 
 - Elliptical Orbit.ipynb - Code for simulating an elliptical orbit around a massive heavenly body.   
-
+- Hyperbolic Orbit.ipynb - Code for simulating a hyperbolic orbit around a massive heavenly body.
+- Contour plot of a reduced 3 body system.ipynb - Code for visualising the potential field for a 3 body system.
+- Tadpole Orbit Trajectory.ipynb - Code for tadpole orbits, a special orbit in 3 body system potential.
+- Horseshoe Orbit Trajectory.ipnb - Code for horseshoe orbits, another special orbit in 3 body system potential.
+- Trajectory of Photons around a Blackhole.ipynb - Code for visualising photon tracks near a massive black hole.
+- Analemma.ipynb - Code for simulating Analemma tracks, aka the path of sun through the year in the sky.
 
 ## How to run code?
 The easiest way is to simply copy the code from the repository into any jupiter notebook and tweak the model parameters. Make sure you have the latest verison of [Python 3.7](https://www.python.org/downloads/release/python-377/) to get accurate results
