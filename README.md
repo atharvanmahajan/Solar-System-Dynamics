@@ -25,9 +25,9 @@ The easiest way is to simply copy the code from the repository into any jupiter 
 
 The project also relies heavily on [matplotlib]([https://matplotlib.org]) and [numpy](https://numpy.org) libraries, so make sure you have the latest versions of both the libraries. 
 
-# matplotlib installation
-
 You can install matplotlib either through terminal using 
 `pip install matplotlib`
 or directly typing into jupiter notebook using
 `conda install matplotlib`
+
+Similarily, install numpy using `pip install numpy` or `conda install numpy`
